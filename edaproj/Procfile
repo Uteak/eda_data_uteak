@@ -1,1 +1,1 @@
-web: gunicorn myeda.wsgi --log-file -
+web: gunicorn edaproj.wsgi --log-file -
